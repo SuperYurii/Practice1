@@ -1,2 +1,1 @@
-# Practice1
-Some revising from the course
+I decided to review the basics of JavaScript. On this page, I practiced using events by creating a button that changes the background color. I also used the DOM to append elements to the <body> in HTML.
